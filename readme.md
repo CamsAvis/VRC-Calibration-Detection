@@ -4,4 +4,4 @@ How to Set Up:
 3. Merge Calibration Detection (WD On/Off) with your avatar using AV3Manager
 
 How to Use:
-IsCalibrated is a bool that will be driven to True on completed calibration
+'HasCalibrated' is a bool that will be driven to True on completed calibration
